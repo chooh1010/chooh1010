@@ -37,6 +37,6 @@ EC2에서 운영 중인 서비스를 Railway 외부 환경에서 감시하고, D
 
 ## Links
 
-- Portfolio: https://chooh1010.github.io/resume/portfolio.html
+- Portfolio: https://chooh1010.github.io/resume/portfolio_v2.html
 - Blog: https://velog.io/@chooh1010/posts
 - Email: chooh1010@gmail.com
